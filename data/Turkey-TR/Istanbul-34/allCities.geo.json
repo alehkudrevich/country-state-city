@@ -147,6 +147,13 @@
       "longitude": "28.87882000"
    },
    {
+      "name": "Istanbul",
+      "countryCode": "TR",
+      "stateCode": "34",
+      "latitude": "41.01384000",
+      "longitude": "28.94966000"
+   },
+   {
       "name": "Kadıköy",
       "countryCode": "TR",
       "stateCode": "34",
